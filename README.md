@@ -1,3 +1,16 @@
+ ***CRYPTIX-MD***
+
+<div align="center">
+
+| [![OFFICIAL GURU](https://files.catbox.moe/32nmpf.jpg)](https://github.com/itsguruh/CRYPTIX-MD)|
+|----|
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=501&height=60&lines=𝗬𝗢𝗪+𝗪𝗘𝗟𝗖𝗢𝗠𝗘+𝗧𝗢+CRYPTIX+MD!)](https://git.io/blinking-svg)
+
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A7A&lines=FORK+AND+MAYBE+GIVE+US+A+STAR)](https://git.io/typing-svg)
+
+---
 
 </p> 
 <p align="center">
