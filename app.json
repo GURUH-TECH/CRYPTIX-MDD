@@ -1,6 +1,6 @@
 {
   "name": "CRYPTIX TECH",
-  "description": "I am Caseyrhodes tech WhatsApp MultiDevice Bot built in NodeJs to enhance the experience.",
+  "description": "I am Official Guru WhatsApp MultiDevice Bot built in NodeJs to enhance the experience.",
   "logo": "https://files.catbox.moe/f6q239.jpg",
   "keywords": ["CRYPTIX-MD"],
   "repository": "https://github.com/itsguruh/CRYPTIX-MD",
@@ -19,12 +19,12 @@
     "BOT_NAME": {
       "description": "change bot name what you want!",
       "required": false,
-      "value": "Caseyrhodes tech"
+      "value": "IT'S GURU"
     },
     "MENU_IMAGE": {
       "description": "change menu image if want otherwise use default",
       "required": false,
-      "value": "https://files.catbox.moe/c07f3s.jpeg"
+      "value": "https://files.catbox.moe/f6q239.jpg"
     },
     "DESCRIPTION": {
       "description": "add caption for menu and etc",
@@ -65,7 +65,7 @@
     "OWNER_NAME": {
       "description": "set owner name",
       "required": false,
-      "value": "Caseyrhodes tech"
+      "value": "GURU"
     },
     "OWNER_NUMBER": {
       "description": "set your owner number",
