@@ -41,7 +41,7 @@ const alive = async (m, Matrix) => {
     
     if (selectedButtonId === `${prefix}voice`) {
       const audioUrls = [
-        'https://files.catbox.moe/m0xfku.mp3'
+        'https://files.catbox.moe/0joaof.mp3'
       ];
 
       const randomAudioUrl = audioUrls[Math.floor(Math.random() * audioUrls.length)];
@@ -101,7 +101,7 @@ const alive = async (m, Matrix) => {
     message: {
       contactMessage: {
         displayName: "ᴄᴀsᴇʏʀʜᴏᴅᴇs ᴀɪ ✅",
-        vcard: `BEGIN:VCARD\nVERSION:3.0\nFN:Caseyrhodes VERIFIED ✅\nORG:CASEYRHODES-TECH BOT;\nTEL;type=CELL;type=VOICE;waid=13135550002:+13135550002\nEND:VCARD`
+        vcard: `BEGIN:VCARD\nVERSION:3.0\nFN:CRYPTIX VERIFIED ✅\nORG:CRYPTIX BOT;\nTEL;type=CELL;type=VOICE;waid=13135550002:+13135550002\nEND:VCARD`
       }
     }
   };
