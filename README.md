@@ -1,4 +1,11 @@
- ***CRYPTIX-MD***
+<!-- Glowing Header -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+CRYPTIX+MD;✨+The+Most+Powerful+advanced+WhatsApp+Bot;💻+Crafted+by+Official+Guru;🚀+Next-Gen+CRTPTIX+Technology;💧+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
+</h1>
 
 <div align="center">
 
@@ -97,5 +104,16 @@
 
  <a href="https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E"><img title="OUR-WHATSAPP CHANNEL" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
  
+<!-- Alive Footer Animation -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+CRTPTIX+MD+Edition+by+Official+Guru;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
+</h3>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
